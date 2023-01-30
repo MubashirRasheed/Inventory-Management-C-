@@ -1,0 +1,20 @@
+﻿InventoryManagment
+
+
+winexe
+C#
+.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\
+InventoryManagment
+none
+false
+DEBUG;TRACE
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\App.xaml
+18-1583144407
+4-1039475885
+31-1099312652
+19-121616366
+AddProducts.xaml;ApproveOrders.xaml;Cart.xaml;CheckOrders.xaml;CstmRegister.xaml;Customer.xaml;CustomerDashboard.xaml;Employee.xaml;EmployeeDashboard.xaml;EmpRegister.xaml;ManageEmployees.xaml;ManageProduct.xaml;Manager.xaml;ManagerDashboard.xaml;ManageStock.xaml;Register.xaml;RoleScreen.xaml;Shop.xaml;
+
+True
+

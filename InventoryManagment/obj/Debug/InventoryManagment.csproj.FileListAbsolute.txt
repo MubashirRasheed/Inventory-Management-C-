@@ -1,0 +1,362 @@
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+C:\Users\Aown\source\repos\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+C:\Users\Dell\source\repos\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+F:\VisualStudio\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+F:\VisualStudio\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+F:\VisualStudio\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Cart.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Shop.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Cart.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\Shop.baml
+F:\VisualStudio\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_Content.g.cs
+F:\VisualStudio\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase.mdf
+F:\VisualStudio\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase_log.ldf
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase.mdf
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase_log.ldf
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.SuggestedBindingRedirects.cache
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_Content.g.cs
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.baml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.dll
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.dll
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.xml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.xml
+D:\vp proj\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CopyComplete
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase.mdf
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase_log.ldf
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.dll
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.dll
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.xml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.xml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.SuggestedBindingRedirects.cache
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_Content.g.cs
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.baml
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CopyComplete
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase.mdf
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase_log.ldf
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.dll
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.dll
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.xml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.xml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.SuggestedBindingRedirects.cache
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_Content.g.cs
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.baml
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CopyComplete
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+D:\vp proj\InventoryManagment v0.91 UI Changed\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase.mdf
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryDatabase_log.ldf
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe.config
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.exe
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\InventoryManagment.pdb
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.dll
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.dll
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.xml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\bin\Debug\EntityFramework.SqlServer.xml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.AssemblyReference.cache
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\App.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_Content.g.cs
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.cache
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment_MarkupCompile.lref
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\AddProducts.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ApproveOrders.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Cart.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CheckOrders.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CstmRegister.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Customer.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\CustomerDashboard.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Employee.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmployeeDashboard.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\EmpRegister.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageEmployees.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageProduct.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Manager.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManagerDashboard.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\ManageStock.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Register.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\RoleScreen.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\Shop.baml
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.g.resources
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.Properties.Resources.resources
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.GenerateResource.cache
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CoreCompileInputs.cache
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.csproj.CopyComplete
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.exe
+G:\InventoryManagment v1.0.1 before xaml copy\InventoryManagment v0.5db+func\InventoryManagment v0.4db\InventoryManagment\InventoryManagment\obj\Debug\InventoryManagment.pdb
